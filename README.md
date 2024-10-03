@@ -62,7 +62,3 @@ This project is a learning exercise in Machine Learning (ML) using stock market 
 ## Model Accuracy
 
 The model achieves an accuracy of **57%**, which is slightly better than random guessing. This result highlights the complexity of stock market prediction and the limitations of simple machine learning models in such a volatile domain.
-
-## Disclaimer
-
-This model was created purely as a learning exercise to understand the world of Machine Learning. **It is not financial advice, and I do not recommend anyone to use this algorithm for making trading or investment decisions.**
